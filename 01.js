@@ -3,11 +3,9 @@
 
 // // your code
 let i = 0;
-let n = 0;
+let sum = 0;
 
 while ( i < 20) {
 	i++
-	n += i
+	sum += i
 }
-
-let sum = n;
