@@ -9,3 +9,5 @@ while ( i < 20) {
 	i++
 	sum += i
 }
+
+alert (sum);
